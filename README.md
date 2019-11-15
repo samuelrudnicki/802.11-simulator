@@ -1,2 +1,7 @@
 # 802.11 simulator
- A simulator of IEEE 802.11
+ Simulation of IEEE 802.11
+
+ Simulates and compares the performance of different modulations and channel codings of IEEE 802.11. Compared in terms of bit error ratio (BER) and frame error ratio (FER), considering frames of 1500 bytes.
+
+ Modulations:  BPSK, 64-QAM
+ Channel codings: LDPC n = 1296, R = {1/2, 5/6}
