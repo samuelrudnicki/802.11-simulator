@@ -1,4 +1,4 @@
-%INF01005 - Comunicação de Dados
+%INF01005 - Comunicaï¿½ï¿½o de Dados
 %Trabalho Final
 
 %Grupo 5
@@ -12,8 +12,8 @@
 %CODIGO DE CANAL
 %LDPC n = 1296, R = {1/2, 5/6}
 
-%Gera uma matrix H esparça com base nos protótipos disponibilizados
-%Essa matriz é gerada para possibilitar o uso de 
+%Gera uma matrix H esparsa com base nos protï¿½tipos disponibilizados
+%Essa matriz ï¿½ gerada para possibilitar o uso de 
 %comm.LDPCEncoder e comm.LDPCDecoder
 function H_sparse = generate_sparse_matrix(rate)
 
